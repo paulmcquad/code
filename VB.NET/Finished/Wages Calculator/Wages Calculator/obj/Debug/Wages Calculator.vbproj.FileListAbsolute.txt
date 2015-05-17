@@ -1,0 +1,20 @@
+E:\Exercises\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.exe
+E:\Exercises\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.pdb
+E:\Exercises\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.xml
+E:\Exercises\Wages Calculator\Wages Calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Wages Calculator\Wages Calculator\obj\Debug\Wages_Calculator.Form1.resources
+E:\Exercises\Wages Calculator\Wages Calculator\obj\Debug\Wages_Calculator.Resources.resources
+E:\Exercises\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.vbproj.GenerateResource.Cache
+E:\Exercises\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.exe
+E:\Exercises\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.xml
+E:\Exercises\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.pdb
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.exe
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.xml
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.pdb
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.exe
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.pdb
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\bin\Debug\Wages Calculator.xml
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\obj\Debug\ResolveAssemblyReference.cache
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\obj\Debug\Wages_Calculator.Form1.resources
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\obj\Debug\Wages_Calculator.Resources.resources
+E:\VB Exercises\Finished\Wages Calculator\Wages Calculator\obj\Debug\Wages Calculator.vbproj.GenerateResource.Cache

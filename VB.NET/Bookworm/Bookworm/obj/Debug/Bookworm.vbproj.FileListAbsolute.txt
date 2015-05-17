@@ -1,0 +1,20 @@
+E:\Exercises\Bookworm\Bookworm\bin\Debug\Bookworm.exe
+E:\Exercises\Bookworm\Bookworm\bin\Debug\Bookworm.pdb
+E:\Exercises\Bookworm\Bookworm\bin\Debug\Bookworm.xml
+E:\Exercises\Bookworm\Bookworm\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.Form1.resources
+E:\Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.Resources.resources
+E:\Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.vbproj.GenerateResource.Cache
+E:\Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.exe
+E:\Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.xml
+E:\Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.pdb
+E:\VB Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.exe
+E:\VB Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.xml
+E:\VB Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.pdb
+E:\VB Exercises\Bookworm\Bookworm\bin\Debug\Bookworm.exe
+E:\VB Exercises\Bookworm\Bookworm\bin\Debug\Bookworm.pdb
+E:\VB Exercises\Bookworm\Bookworm\bin\Debug\Bookworm.xml
+E:\VB Exercises\Bookworm\Bookworm\obj\Debug\ResolveAssemblyReference.cache
+E:\VB Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.Form1.resources
+E:\VB Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.Resources.resources
+E:\VB Exercises\Bookworm\Bookworm\obj\Debug\Bookworm.vbproj.GenerateResource.Cache

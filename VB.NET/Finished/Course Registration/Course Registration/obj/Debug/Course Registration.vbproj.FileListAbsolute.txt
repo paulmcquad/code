@@ -1,0 +1,20 @@
+E:\Exercises\Course Registration\Course Registration\bin\Debug\Course Registration.exe
+E:\Exercises\Course Registration\Course Registration\bin\Debug\Course Registration.pdb
+E:\Exercises\Course Registration\Course Registration\bin\Debug\Course Registration.xml
+E:\Exercises\Course Registration\Course Registration\obj\Debug\ResolveAssemblyReference.cache
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course_Registration.Resources.resources
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.vbproj.GenerateResource.Cache
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.exe
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.xml
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.pdb
+E:\Exercises\Course Registration\Course Registration\obj\Debug\Course_Registration.Form1.resources
+E:\VB Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.exe
+E:\VB Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.xml
+E:\VB Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.pdb
+E:\VB Exercises\Course Registration\Course Registration\bin\Debug\Course Registration.exe
+E:\VB Exercises\Course Registration\Course Registration\bin\Debug\Course Registration.pdb
+E:\VB Exercises\Course Registration\Course Registration\bin\Debug\Course Registration.xml
+E:\VB Exercises\Course Registration\Course Registration\obj\Debug\ResolveAssemblyReference.cache
+E:\VB Exercises\Course Registration\Course Registration\obj\Debug\Course_Registration.Form1.resources
+E:\VB Exercises\Course Registration\Course Registration\obj\Debug\Course_Registration.Resources.resources
+E:\VB Exercises\Course Registration\Course Registration\obj\Debug\Course Registration.vbproj.GenerateResource.Cache
