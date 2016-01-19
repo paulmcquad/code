@@ -1,7 +1,7 @@
 import sys 
 
 def encrypt(k):
-	plaintext = raw_input('Enter plain text message: ')
+	plaintext = input('Enter plain text message: ')
 	cipher = ''
 	
 	for each in plaintext:
@@ -12,10 +12,10 @@ def encrypt(k):
 			
 		cipher += chr(c)
 		
-	print 'Your encrypted message is: ' + cipher
+	print( 'Your encrypted message is: ' + cipher)
 
 def decrypt(k):
-	cipher = raw_input('Enter encrypted message: ')
+	cipher = input('Enter encrypted message: ')
 	plaintext = ''
 	
 	for each in cipher:
@@ -26,18 +26,18 @@ def decrypt(k):
 						
 		plaintext += chr(p)
 		
-	print 'Your plain text message is: ' + plaintext
+	print( 'Your plain text message is: ' + plaintext)
 
 def main(argv):
-	if (len(sys.argv) != 3):
-		sys.exit('Usage: ceaser.py <k> <mode>')
-		
-	if sys.argv[2] == 'e':
-		encrypt(int(sys.argv[1]))
-	elif sys.argv[2] == 'd':
-		decrypt(int(sys.argv[1]))
-	else:
-		sys.exit('Error in mode type')
+    print ("In main")
+    if (len(sys.argv) != 3):
+        sys.exit('Usage: caesar.py <k> <mode>')
+    if sys.argv[2] == 'e':
+        encrypt(int(sys.argv[1]))
+    elif sys.argv[2] == 'd':
+        decrypt(int(sys.argv[1]))
+    else:
+        sys.exit('Error in mode type')
 
 
 if __name__ == "__main__":

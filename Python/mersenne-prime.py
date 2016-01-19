@@ -6,10 +6,10 @@ def main():
         start = time.time()
         while True:
                 if mersenneIsPrime(n):
-                        print "M" + str(n) + "=" + str(mersenne(n))
+                        print ("M" + str(n) + "=" + str(mersenne(n)))
                         elapsed = time.time() - start
-                        print "\tfound in %.5fs" % elapsed
-                        print ""
+                        print ("\tfound in %.5fs" % elapsed)
+                        print ("")
                 n = n + 1
 
 def mersenne(n):
